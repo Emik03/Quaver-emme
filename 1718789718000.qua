@@ -15190,6 +15190,102 @@ TimingGroups:
     InitialScrollVelocity: 1
     ScrollVelocities:
     - {}
+    - StartTime: 14765
+      Multiplier: 0.0010000000474974513
+    - StartTime: 14765.015625
+    - StartTime: 14765.03125
+    - StartTime: 15227
+      Multiplier: 0.0010000000474974513
+    - StartTime: 15227.015625
+    - StartTime: 15227.03125
+    - StartTime: 16034
+      Multiplier: 0.0010000000474974513
+    - StartTime: 16034.015625
+    - StartTime: 16034.03125
+    - StartTime: 16496
+      Multiplier: 0.0010000000474974513
+    - StartTime: 16496.015625
+    - StartTime: 16496.03125
+    - StartTime: 16900
+      Multiplier: 0.0010000000474974513
+    - StartTime: 16900.015625
+    - StartTime: 16900.03125
+    - StartTime: 17361
+      Multiplier: 0.0010000000474974513
+    - StartTime: 17361.015625
+    - StartTime: 17361.03125
+    - StartTime: 18227
+      Multiplier: 0.0010000000474974513
+    - StartTime: 18227.015625
+    - StartTime: 18227.03125
+    - StartTime: 18457
+      Multiplier: 0.0010000000474974513
+    - StartTime: 18457.015625
+    - StartTime: 18457.03125
+    - StartTime: 18688
+      Multiplier: 0.0010000000474974513
+    - StartTime: 18688.015625
+    - StartTime: 18688.03125
+    - StartTime: 19265
+      Multiplier: 0.0010000000474974513
+    - StartTime: 19265.015625
+    - StartTime: 19265.03125
+    - StartTime: 19727
+      Multiplier: 0.0010000000474974513
+    - StartTime: 19727.015625
+    - StartTime: 19727.03125
+    - StartTime: 20130
+      Multiplier: 0.0010000000474974513
+    - StartTime: 20130.015625
+    - StartTime: 20130.03125
+    - StartTime: 20390
+      Multiplier: 0.0010000000474974513
+    - StartTime: 20390.015625
+    - StartTime: 20390.03125
+    - StartTime: 20592
+      Multiplier: 0.0010000000474974513
+    - StartTime: 20592.015625
+    - StartTime: 20592.03125
+    - StartTime: 20746
+      Multiplier: 0.0010000000474974513
+    - StartTime: 20746.015625
+    - StartTime: 20746.03125
+    - StartTime: 21227
+      Multiplier: 0.0010000000474974513
+    - StartTime: 21227.015625
+    - StartTime: 21227.03125
+    - StartTime: 21284
+      Multiplier: 0.0010000000474974513
+    - StartTime: 21284.015625
+    - StartTime: 21284.03125
+    - StartTime: 21400
+      Multiplier: 0.0010000000474974513
+    - StartTime: 21400.015625
+    - StartTime: 21400.03125
+    - StartTime: 21630
+      Multiplier: 0.0010000000474974513
+    - StartTime: 21630.015625
+    - StartTime: 21630.03125
+    - StartTime: 22150
+      Multiplier: 0.0010000000474974513
+    - StartTime: 22150.015625
+    - StartTime: 22150.03125
+    - StartTime: 22265
+      Multiplier: 0.0010000000474974513
+    - StartTime: 22265.015625
+    - StartTime: 22265.03125
+    - StartTime: 22496
+      Multiplier: 0.0010000000474974513
+    - StartTime: 22496.015625
+    - StartTime: 22496.03125
+    - StartTime: 22900
+      Multiplier: 0.0010000000474974513
+    - StartTime: 22900.015625
+    - StartTime: 22900.03125
+    - StartTime: 23361
+      Multiplier: 0.0010000000474974513
+    - StartTime: 23361.015625
+    - StartTime: 23361.03125
     - StartTime: 23531
       Multiplier: 6400
     - StartTime: 23531.015625
@@ -15205,6 +15301,10 @@ TimingGroups:
     - StartTime: 23765
       Multiplier: 6400
     - StartTime: 23765.015625
+    - StartTime: 23823
+      Multiplier: 0.0010000000474974513
+    - StartTime: 23823.015625
+    - StartTime: 23823.03125
     - StartTime: 23880
       Multiplier: 6400
     - StartTime: 23880.015625
@@ -15598,8 +15698,10 @@ TimingGroups:
     - StartTime: 46726.984375
       Multiplier: 6321.3720703125
     - StartTime: 46727
-      Multiplier: -6321.2109375
+      Multiplier: 0.0010000000474974513
     - StartTime: 46727.015625
+      Multiplier: -6321.13037109375
+    - StartTime: 46727.03125
       Multiplier: 0.080604955554008484
     - StartTime: 46731.375
       Multiplier: 0.063705191016197205
@@ -16376,8 +16478,10 @@ TimingGroups:
     - StartTime: 54110.984375
       Multiplier: 6294.34228515625
     - StartTime: 54111
-      Multiplier: -6294.1806640625
+      Multiplier: 0.0010000000474974513
     - StartTime: 54111.015625
+      Multiplier: -6294.10009765625
+    - StartTime: 54111.03125
       Multiplier: 0.080604955554008484
     - StartTime: 54116.25
       Multiplier: 0.063705191016197205
@@ -16808,8 +16912,10 @@ TimingGroups:
     - StartTime: 57803.984375
       Multiplier: 6321.3720703125
     - StartTime: 57804
-      Multiplier: -6321.2109375
+      Multiplier: 0.0010000000474974513
     - StartTime: 57804.015625
+      Multiplier: -6321.13037109375
+    - StartTime: 57804.03125
       Multiplier: 0.080604955554008484
     - StartTime: 57808.375
       Multiplier: 0.063705191016197205
@@ -17232,8 +17338,10 @@ TimingGroups:
     - StartTime: 61495.984375
       Multiplier: 6321.3720703125
     - StartTime: 61496
-      Multiplier: -6321.2109375
+      Multiplier: 0.0010000000474974513
     - StartTime: 61496.015625
+      Multiplier: -6321.13037109375
+    - StartTime: 61496.03125
       Multiplier: 0.080604955554008484
     - StartTime: 61500.375
       Multiplier: 0.063705191016197205
@@ -18056,8 +18164,10 @@ TimingGroups:
     - StartTime: 68879.984375
       Multiplier: 6262.53076171875
     - StartTime: 68880
-      Multiplier: -6262.36962890625
+      Multiplier: 0.0010000000474974513
     - StartTime: 68880.015625
+      Multiplier: -6262.2890625
+    - StartTime: 68880.03125
       Multiplier: 0.080604955554008484
     - StartTime: 68885.375
       Multiplier: 0.063705191016197205
@@ -18440,8 +18550,10 @@ TimingGroups:
     - StartTime: 72572.984375
       Multiplier: 6321.3720703125
     - StartTime: 72573
-      Multiplier: -6321.2109375
+      Multiplier: 0.0010000000474974513
     - StartTime: 72573.015625
+      Multiplier: -6321.13037109375
+    - StartTime: 72573.03125
       Multiplier: 0.080604955554008484
     - StartTime: 72577.375
       Multiplier: 0.063705191016197205
@@ -19272,8 +19384,10 @@ TimingGroups:
     - StartTime: 79956.984375
       Multiplier: 6536.46337890625
     - StartTime: 79957
-      Multiplier: -6536.3359375
+      Multiplier: 0.0010000000474974513
     - StartTime: 79957.015625
+      Multiplier: -6536.2724609375
+    - StartTime: 79957.03125
       Multiplier: 0.063705191016197205
     - StartTime: 79969.8125
       Multiplier: 0.050348658114671707
@@ -19666,8 +19780,10 @@ TimingGroups:
     - StartTime: 83649.984375
       Multiplier: 6321.3720703125
     - StartTime: 83650
-      Multiplier: -6321.2109375
+      Multiplier: 0.0010000000474974513
     - StartTime: 83650.015625
+      Multiplier: -6321.13037109375
+    - StartTime: 83650.03125
       Multiplier: 0.080604955554008484
     - StartTime: 83654.375
       Multiplier: 0.063705191016197205
@@ -20476,8 +20592,10 @@ TimingGroups:
     - StartTime: 91033.984375
       Multiplier: 6262.53076171875
     - StartTime: 91034
-      Multiplier: -6262.36962890625
+      Multiplier: 0.0010000000474974513
     - StartTime: 91034.015625
+      Multiplier: -6262.2890625
+    - StartTime: 91034.03125
       Multiplier: 0.080604955554008484
     - StartTime: 91039.375
       Multiplier: 0.063705191016197205
@@ -21268,8 +21386,10 @@ TimingGroups:
     - StartTime: 98418.984375
       Multiplier: 6321.3720703125
     - StartTime: 98419
-      Multiplier: -6321.2109375
+      Multiplier: 0.0010000000474974513
     - StartTime: 98419.015625
+      Multiplier: -6321.13037109375
+    - StartTime: 98419.03125
       Multiplier: 0.080604955554008484
     - StartTime: 98423.375
       Multiplier: 0.063705191016197205
