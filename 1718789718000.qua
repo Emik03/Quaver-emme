@@ -12642,6 +12642,12 @@ HitObjects:
   KeySounds: []
   EditorLayer: 7
   TimingGroup: Synth
+- StartTime: 233191
+  Lane: 4
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 7
+  TimingGroup: Synth
 - StartTime: 233268
   Lane: 4
   HitSound: Normal, Whistle
