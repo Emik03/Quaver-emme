@@ -9,7 +9,7 @@ Artist: phonon
 Source: ''
 Tags: sv, qot4, qot24, qot2024, knockout, ko, grand finals, gf, good luck, gl, single, jazz fusion, nu jazz, future bass, idm, riddim, uncommon time signatures, lush, quirky, microtonal
 Creator: Emik
-DifficultyName: it's time
+DifficultyName: show them
 Description: Created at 1718789718000
 BPMDoesNotAffectScrollVelocity: true
 InitialScrollVelocity: 1
@@ -8345,139 +8345,139 @@ HitObjects:
   KeySounds: []
   EditorLayer: 1
 - StartTime: 191963
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
 - StartTime: 192177
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 7
 - StartTime: 192392
-  Lane: 1
+  Lane: 4
   HitSound: Finish
   KeySounds: []
   EditorLayer: 8
 - StartTime: 192392
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
 - StartTime: 192820
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 7
 - StartTime: 192820
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
 - StartTime: 193249
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
 - StartTime: 193463
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 7
 - StartTime: 193463
-  Lane: 1
+  Lane: 4
   HitSound: Finish
   KeySounds: []
   EditorLayer: 8
 - StartTime: 193677
-  Lane: 3
+  Lane: 2
   KeySounds: []
   EditorLayer: 1
 - StartTime: 194106
-  Lane: 2
+  Lane: 3
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 7
 - StartTime: 194106
+  Lane: 4
+  HitSound: Finish
+  KeySounds: []
+  EditorLayer: 8
+- StartTime: 194106
+  Lane: 2
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 194535
+  Lane: 2
+  KeySounds: []
+  EditorLayer: 1
+- StartTime: 194963
+  Lane: 2
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 7
+- StartTime: 194963
   Lane: 1
   HitSound: Finish
   KeySounds: []
   EditorLayer: 8
-- StartTime: 194106
-  Lane: 3
-  KeySounds: []
-  EditorLayer: 1
-- StartTime: 194535
-  Lane: 3
-  KeySounds: []
-  EditorLayer: 1
 - StartTime: 194963
   Lane: 3
-  HitSound: Normal, Whistle
-  KeySounds: []
-  EditorLayer: 7
-- StartTime: 194963
-  Lane: 4
-  HitSound: Finish
-  KeySounds: []
-  EditorLayer: 8
-- StartTime: 194963
-  Lane: 2
   KeySounds: []
   EditorLayer: 1
 - StartTime: 195392
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 1
 - StartTime: 195606
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 7
 - StartTime: 195820
-  Lane: 4
+  Lane: 1
   HitSound: Finish
   KeySounds: []
   EditorLayer: 8
 - StartTime: 195820
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 1
 - StartTime: 196249
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 7
 - StartTime: 196249
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 1
 - StartTime: 196677
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 1
 - StartTime: 196892
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 7
 - StartTime: 196892
-  Lane: 4
+  Lane: 1
   HitSound: Finish
   KeySounds: []
   EditorLayer: 8
 - StartTime: 197106
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 1
 - StartTime: 197535
-  Lane: 3
+  Lane: 2
   HitSound: Normal, Whistle
   KeySounds: []
   EditorLayer: 7
 - StartTime: 197535
-  Lane: 4
+  Lane: 1
   HitSound: Finish
   KeySounds: []
   EditorLayer: 8
 - StartTime: 197535
-  Lane: 2
+  Lane: 3
   KeySounds: []
   EditorLayer: 1
 - StartTime: 197963
