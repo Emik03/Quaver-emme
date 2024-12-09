@@ -942,18 +942,18 @@ HitObjects:
   EditorLayer: 6
   TimingGroup: Voice
 - StartTime: 24227
-  Lane: 2
-  HitSound: Normal, Whistle
-  KeySounds: []
-  EditorLayer: 5
-  TimingGroup: Piano
-- StartTime: 24227
   Lane: 1
   EndTime: 24457
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 6
   TimingGroup: Voice
+- StartTime: 24227
+  Lane: 2
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 5
+  TimingGroup: Piano
 - StartTime: 24688
   Lane: 1
   KeySounds: []
@@ -15172,7 +15172,56 @@ TimingGroups:
   Hihats: !ScrollGroup
     InitialScrollVelocity: 1
     ScrollVelocities:
-    - Multiplier: 1
+    - {}
+    - StartTime: 23531
+      Multiplier: 6400
+    - StartTime: 23531.015625
+    - StartTime: 23534
+      Multiplier: 6400
+    - StartTime: 23534
+      Multiplier: 1286400
+    - StartTime: 23534.015625
+    - StartTime: 23534.015625
+    - StartTime: 23650
+      Multiplier: 6400
+    - StartTime: 23650.015625
+    - StartTime: 23765
+      Multiplier: 6400
+    - StartTime: 23765.015625
+    - StartTime: 23880
+      Multiplier: 6400
+    - StartTime: 23880.015625
+    - StartTime: 23996
+      Multiplier: 6400
+    - StartTime: 23996.015625
+    - StartTime: 24111
+      Multiplier: 6400
+    - StartTime: 24111.015625
+    - StartTime: 24227
+      Multiplier: 6400
+    - StartTime: 24227.015625
+    - StartTime: 24342
+      Multiplier: 6400
+    - StartTime: 24342.015625
+    - StartTime: 24457
+      Multiplier: 6400
+    - StartTime: 24457.015625
+    - StartTime: 24573
+      Multiplier: 6400
+    - StartTime: 24573.015625
+    - StartTime: 24687.984375
+      Multiplier: 6400
+    - StartTime: 24688
+    - StartTime: 24688.015625
+    - StartTime: 24726.984375
+      Multiplier: 4992
+    - StartTime: 24727
+      Multiplier: -4992
+    - StartTime: 24727.015625
+    - StartTime: 24764.984375
+      Multiplier: 9856
+    - StartTime: 24765
+      Multiplier: 2
     - StartTime: 197963
       Multiplier: 640001
     - StartTime: 197963.015625
