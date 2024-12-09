@@ -32,13 +32,6 @@ EditorLayers:
   ColorRgb: 0,255,255
 - Name: Ghost
   ColorRgb: 160,160,160
-Bookmarks:
-- StartTime: 62992
-  Note: '?'
-- StartTime: 64761
-  Note: '?'
-- StartTime: 65915
-  Note: '?'
 CustomAudioSamples: []
 SoundEffects: []
 TimingPoints:
@@ -3345,17 +3338,17 @@ HitObjects:
   EditorLayer: 4
   TimingGroup: Snare
 - StartTime: 57573
-  Lane: 4
-  HitSound: Normal, Clap
-  KeySounds: []
-  EditorLayer: 4
-  TimingGroup: Snare
-- StartTime: 57573
   Lane: 2
   EndTime: 57804
   KeySounds: []
   EditorLayer: 1
   TimingGroup: Hihats
+- StartTime: 57573
+  Lane: 4
+  HitSound: Normal, Clap
+  KeySounds: []
+  EditorLayer: 4
+  TimingGroup: Snare
 - StartTime: 57659
   Lane: 1
   HitSound: Whistle
@@ -3786,6 +3779,18 @@ HitObjects:
   KeySounds: []
   EditorLayer: 9
   TimingGroup: Ghost
+- StartTime: 62992
+  Lane: 2
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 3
+  TimingGroup: Trumpet
+- StartTime: 62992
+  Lane: 4
+  HitSound: Clap
+  KeySounds: []
+  EditorLayer: 4
+  TimingGroup: Snare
 - StartTime: 63054
   Lane: 1
   HitSound: Whistle
@@ -3911,7 +3916,7 @@ HitObjects:
   KeySounds: []
   EditorLayer: 9
   TimingGroup: Ghost
-- StartTime: 64582
+- StartTime: 64550
   Lane: 1
   HitSound: Whistle
   KeySounds: []
@@ -3928,6 +3933,12 @@ HitObjects:
   KeySounds: []
   EditorLayer: 9
   TimingGroup: Ghost
+- StartTime: 64781
+  Lane: 1
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 3
+  TimingGroup: Trumpet
 - StartTime: 64842
   Lane: 4
   HitSound: Normal, Clap
@@ -4015,6 +4026,12 @@ HitObjects:
   TimingGroup: Snare
 - StartTime: 65765
   Lane: 3
+  HitSound: Whistle
+  KeySounds: []
+  EditorLayer: 3
+  TimingGroup: Trumpet
+- StartTime: 65877
+  Lane: 2
   HitSound: Whistle
   KeySounds: []
   EditorLayer: 3
