@@ -15224,7 +15224,7 @@ TimingGroups:
     - StartTime: 24764.984375
       Multiplier: 9856
     - StartTime: 24765
-      Multiplier: 2
+      Multiplier: 1
     - StartTime: 197963
       Multiplier: 640001
     - StartTime: 197963.015625
