@@ -18,6 +18,6 @@
 **[Part 1 (55/60)](https://quavergame.com/mapset/map/42553) + Part 2 (60/60)** <<<
 
 ### Everything SV Tournament 2024
-**[Dream Odyssey (45/60)](https://quavergame.com/mapset/map/156688) + emme (60/60)** <<<
+**[Dream Odyssey (45/60)](https://github.com/Emik03/Quaver-Dream-Odyssey) + emme (60/60)** <<<
 
 With our infectious love of SV — and countless hours poured — we present to you: [The world's first and only 60 difficulty.](https://youtu.be/p5HS1LV5mFg)
